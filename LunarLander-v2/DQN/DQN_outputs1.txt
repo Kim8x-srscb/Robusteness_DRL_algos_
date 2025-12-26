@@ -1,0 +1,253 @@
+✓ Saved: models\exp1\dqn_p25_seed196.zip
+
+✓ Experiment 1 training complete
+
+### EXPERIMENT 1: EVALUATION ###
+
+======================================================================
+EXPERIMENT 1: Cross-evaluation
+======================================================================
+
+Model trained at p=0.00, seed=0
+  Testing at p=0.00... ✓ (return=151.5)
+  Testing at p=0.05... ✓ (return=130.1)
+  Testing at p=0.10... ✓ (return=127.7)
+  Testing at p=0.15... ✓ (return=125.6)
+  Testing at p=0.20... ✓ (return=151.5)
+  Testing at p=0.25... ✓ (return=138.0)
+
+Model trained at p=0.00, seed=42
+  Testing at p=0.00... ✓ (return=205.7)
+  Testing at p=0.05... ✓ (return=201.4)
+  Testing at p=0.10... ✓ (return=197.3)
+  Testing at p=0.15... ✓ (return=189.3)
+  Testing at p=0.20... ✓ (return=193.4)
+  Testing at p=0.25... ✓ (return=179.2)
+
+Model trained at p=0.00, seed=1729
+  Testing at p=0.00... ✓ (return=143.3)
+  Testing at p=0.05... ✓ (return=133.5)
+  Testing at p=0.10... ✓ (return=123.7)
+  Testing at p=0.15... ✓ (return=113.9)
+  Testing at p=0.20... ✓ (return=117.9)
+  Testing at p=0.25... ✓ (return=122.8)
+
+Model trained at p=0.00, seed=6174
+  Testing at p=0.00... ✓ (return=215.3)
+  Testing at p=0.05... ✓ (return=211.3)
+  Testing at p=0.10... ✓ (return=206.8)
+  Testing at p=0.15... ✓ (return=189.6)
+  Testing at p=0.20... ✓ (return=180.1)
+  Testing at p=0.25... ✓ (return=194.0)
+
+Model trained at p=0.00, seed=196
+  Testing at p=0.00... ✓ (return=141.0)
+  Testing at p=0.05... ✓ (return=144.1)
+  Testing at p=0.10... ✓ (return=151.8)
+  Testing at p=0.15... ✓ (return=153.4)
+  Testing at p=0.20... ✓ (return=136.6)
+  Testing at p=0.25... ✓ (return=126.7)
+
+Model trained at p=0.05, seed=0
+  Testing at p=0.00... ✓ (return=112.0)
+  Testing at p=0.05... ✓ (return=98.9)
+  Testing at p=0.10... ✓ (return=96.6)
+  Testing at p=0.15... ✓ (return=110.2)
+  Testing at p=0.20... ✓ (return=117.6)
+  Testing at p=0.25... ✓ (return=108.2)
+
+Model trained at p=0.05, seed=42
+  Testing at p=0.00... ✓ (return=141.3)
+  Testing at p=0.05... ✓ (return=140.7)
+  Testing at p=0.10... ✓ (return=139.8)
+  Testing at p=0.15... ✓ (return=147.9)
+  Testing at p=0.20... ✓ (return=143.9)
+  Testing at p=0.25... ✓ (return=139.5)
+
+Model trained at p=0.05, seed=1729
+  Testing at p=0.00... ✓ (return=117.3)
+  Testing at p=0.05... ✓ (return=112.4)
+  Testing at p=0.10... ✓ (return=121.7)
+  Testing at p=0.15... ✓ (return=122.2)
+  Testing at p=0.20... ✓ (return=123.1)
+  Testing at p=0.25... ✓ (return=133.7)
+
+Model trained at p=0.05, seed=6174
+  Testing at p=0.00... ✓ (return=167.2)
+  Testing at p=0.05... ✓ (return=163.2)
+  Testing at p=0.10... ✓ (return=159.9)
+  Testing at p=0.15... ✓ (return=155.6)
+  Testing at p=0.20... ✓ (return=151.2)
+  Testing at p=0.25... ✓ (return=149.0)
+
+Model trained at p=0.05, seed=196
+  Testing at p=0.00... ✓ (return=164.3)
+  Testing at p=0.05... ✓ (return=156.7)
+  Testing at p=0.10... ✓ (return=158.1)
+  Testing at p=0.15... ✓ (return=148.3)
+  Testing at p=0.20... ✓ (return=140.2)
+  Testing at p=0.25... ✓ (return=138.7)
+
+Model trained at p=0.10, seed=0
+  Testing at p=0.00... ✓ (return=153.0)
+  Testing at p=0.05... ✓ (return=156.9)
+  Testing at p=0.10... ✓ (return=146.6)
+  Testing at p=0.15... ✓ (return=139.7)
+  Testing at p=0.20... ✓ (return=129.6)
+  Testing at p=0.25... ✓ (return=138.7)
+
+Model trained at p=0.10, seed=42
+  Testing at p=0.00... ✓ (return=156.2)
+  Testing at p=0.05... ✓ (return=163.5)
+  Testing at p=0.10... ✓ (return=155.0)
+  Testing at p=0.15... ✓ (return=152.8)
+  Testing at p=0.20... ✓ (return=153.9)
+  Testing at p=0.25... ✓ (return=144.2)
+
+Model trained at p=0.10, seed=1729
+  Testing at p=0.00... ✓ (return=89.8)
+  Testing at p=0.05... ✓ (return=99.4)
+  Testing at p=0.10... ✓ (return=96.4)
+  Testing at p=0.15... ✓ (return=71.6)
+  Testing at p=0.20... ✓ (return=74.7)
+  Testing at p=0.25... ✓ (return=75.4)
+
+Model trained at p=0.10, seed=6174
+  Testing at p=0.00... ✓ (return=150.6)
+  Testing at p=0.05... ✓ (return=148.6)
+  Testing at p=0.10... ✓ (return=145.6)
+  Testing at p=0.15... ✓ (return=144.9)
+  Testing at p=0.20... ✓ (return=158.9)
+  Testing at p=0.25... ✓ (return=158.2)
+
+Model trained at p=0.10, seed=196
+  Testing at p=0.00... ✓ (return=121.6)
+  Testing at p=0.05... ✓ (return=127.9)
+  Testing at p=0.10... ✓ (return=109.8)
+  Testing at p=0.15... ✓ (return=129.9)
+  Testing at p=0.20... ✓ (return=120.6)
+  Testing at p=0.25... ✓ (return=105.0)
+
+Model trained at p=0.15, seed=0
+  Testing at p=0.00... ✓ (return=135.5)
+  Testing at p=0.05... ✓ (return=112.8)
+  Testing at p=0.10... ✓ (return=127.4)
+  Testing at p=0.15... ✓ (return=100.8)
+  Testing at p=0.20... ✓ (return=114.8)
+  Testing at p=0.25... ✓ (return=106.9)
+
+Model trained at p=0.15, seed=42
+  Testing at p=0.00... ✓ (return=93.0)
+  Testing at p=0.05... ✓ (return=94.6)
+  Testing at p=0.10... ✓ (return=68.9)
+  Testing at p=0.15... ✓ (return=87.6)
+  Testing at p=0.20... ✓ (return=106.0)
+  Testing at p=0.25... ✓ (return=96.3)
+
+Model trained at p=0.15, seed=1729
+  Testing at p=0.00... ✓ (return=164.4)
+  Testing at p=0.05... ✓ (return=162.4)
+  Testing at p=0.10... ✓ (return=177.1)
+  Testing at p=0.15... ✓ (return=170.3)
+  Testing at p=0.20... ✓ (return=167.3)
+  Testing at p=0.25... ✓ (return=161.1)
+
+Model trained at p=0.15, seed=6174
+  Testing at p=0.00... ✓ (return=165.2)
+  Testing at p=0.05... ✓ (return=161.2)
+  Testing at p=0.10... ✓ (return=149.7)
+  Testing at p=0.15... ✓ (return=156.8)
+  Testing at p=0.20... ✓ (return=134.4)
+  Testing at p=0.25... ✓ (return=148.0)
+
+Model trained at p=0.15, seed=196
+  Testing at p=0.00... ✓ (return=190.2)
+  Testing at p=0.05... ✓ (return=179.4)
+  Testing at p=0.10... ✓ (return=176.6)
+  Testing at p=0.15... ✓ (return=175.4)
+  Testing at p=0.20... ✓ (return=159.5)
+  Testing at p=0.25... ✓ (return=163.6)
+
+Model trained at p=0.20, seed=0
+  Testing at p=0.00... ✓ (return=156.7)
+  Testing at p=0.05... ✓ (return=151.8)
+  Testing at p=0.10... ✓ (return=154.2)
+  Testing at p=0.15... ✓ (return=142.6)
+  Testing at p=0.20... ✓ (return=137.0)
+  Testing at p=0.25... ✓ (return=142.1)
+
+Model trained at p=0.20, seed=42
+  Testing at p=0.00... ✓ (return=123.5)
+  Testing at p=0.05... ✓ (return=117.9)
+  Testing at p=0.10... ✓ (return=114.2)
+  Testing at p=0.15... ✓ (return=116.3)
+  Testing at p=0.20... ✓ (return=87.6)
+  Testing at p=0.25... ✓ (return=103.7)
+
+Model trained at p=0.20, seed=1729
+  Testing at p=0.00... ✓ (return=118.4)
+  Testing at p=0.05... ✓ (return=107.7)
+  Testing at p=0.10... ✓ (return=110.2)
+  Testing at p=0.15... ✓ (return=103.4)
+  Testing at p=0.20... ✓ (return=113.3)
+  Testing at p=0.25... ✓ (return=115.2)
+
+Model trained at p=0.20, seed=6174
+  Testing at p=0.00... ✓ (return=151.2)
+  Testing at p=0.05... ✓ (return=147.2)
+  Testing at p=0.10... ✓ (return=174.7)
+  Testing at p=0.15... ✓ (return=159.9)
+  Testing at p=0.20... ✓ (return=158.7)
+  Testing at p=0.25... ✓ (return=151.4)
+
+Model trained at p=0.20, seed=196
+  Testing at p=0.00... ✓ (return=136.9)
+  Testing at p=0.05... ✓ (return=118.6)
+  Testing at p=0.10... ✓ (return=121.7)
+  Testing at p=0.15... ✓ (return=109.6)
+  Testing at p=0.20... ✓ (return=117.3)
+  Testing at p=0.25... ✓ (return=117.2)
+
+Model trained at p=0.25, seed=0
+  Testing at p=0.00... ✓ (return=196.2)
+  Testing at p=0.05... ✓ (return=207.1)
+  Testing at p=0.10... ✓ (return=187.1)
+  Testing at p=0.15... ✓ (return=170.6)
+  Testing at p=0.20... ✓ (return=184.0)
+  Testing at p=0.25... ✓ (return=183.3)
+
+Model trained at p=0.25, seed=42
+  Testing at p=0.00... ✓ (return=88.9)
+  Testing at p=0.05... ✓ (return=113.1)
+  Testing at p=0.10... ✓ (return=83.4)
+  Testing at p=0.15... ✓ (return=100.2)
+  Testing at p=0.20... ✓ (return=87.9)
+  Testing at p=0.25... ✓ (return=77.2)
+
+Model trained at p=0.25, seed=1729
+  Testing at p=0.00... ✓ (return=88.7)
+  Testing at p=0.05... ✓ (return=79.3)
+  Testing at p=0.10... ✓ (return=69.9)
+  Testing at p=0.15... ✓ (return=105.1)
+  Testing at p=0.20... ✓ (return=88.5)
+  Testing at p=0.25... ✓ (return=82.2)
+
+Model trained at p=0.25, seed=6174
+  Testing at p=0.00... ✓ (return=142.5)
+  Testing at p=0.05... ✓ (return=140.5)
+  Testing at p=0.10... ✓ (return=154.3)
+  Testing at p=0.15... ✓ (return=138.8)
+  Testing at p=0.20... ✓ (return=152.8)
+  Testing at p=0.25... ✓ (return=149.2)
+
+Model trained at p=0.25, seed=196
+  Testing at p=0.00... ✓ (return=111.7)
+  Testing at p=0.05... ✓ (return=100.6)
+  Testing at p=0.10... ✓ (return=104.5)
+  Testing at p=0.15... ✓ (return=63.4)
+  Testing at p=0.20... ✓ (return=86.4)
+  Testing at p=0.25... ✓ (return=83.5)
+
+✓ Saved: results\exp1\exp1_results.csv
+
+Generating Experiment 1 plots...

@@ -1,0 +1,57 @@
+
+======================================================================
+RESUMING FROM PLOT GENERATION (11 hours of work preserved)
+======================================================================
+
+### REGENERATING PLOTS (Exp2) ###
+
+Generating Experiment 2 plots...
+✓ All Experiment 2 plots generated
+
+### RUNNING ANALYSIS ###
+
+======================================================================
+EXPERIMENT 2: Analysis
+======================================================================
+
+Critical failure threshold: p=10%
+
+Performance degradation:
+  p=0%:  51.0%
+  p=25%: 44.0%
+  Drop:  7.0 pp
+
+Time-to-failure analysis:
+  p=0.00: 588.5 steps
+  p=0.05: 587.7 steps
+  p=0.10: 568.7 steps
+  p=0.15: 525.1 steps
+  p=0.20: 487.3 steps
+  p=0.25: 486.7 steps
+
+### COMPARATIVE ANALYSIS ###
+
+======================================================================
+COMPARATIVE ANALYSIS
+======================================================================
+
+Zero-shot vs Matched training:
+  p=0.00: Zero-shot= 51.0%, Matched= 51.0%, Δ= +0.0pp
+  p=0.05: Zero-shot= 50.0%, Matched= 33.6%, Δ=-16.4pp
+  p=0.10: Zero-shot= 49.0%, Matched= 32.6%, Δ=-16.4pp
+  p=0.15: Zero-shot= 47.2%, Matched= 39.2%, Δ= -8.0pp
+  p=0.20: Zero-shot= 47.0%, Matched= 33.4%, Δ=-13.6pp
+  p=0.25: Zero-shot= 44.0%, Matched= 31.8%, Δ=-12.2pp
+
+======================================================================
+✓✓✓ COMPLETE PIPELINE FINISHED ✓✓✓
+======================================================================
+
+Results saved to:
+  models/exp1/          - 30 trained agents
+  models/exp2/          - 5 trained agents
+  results/exp1/         - Cross-evaluation results
+  results/exp1/plots/   - Heatmaps and curves
+  results/exp2/         - Zero-shot results
+  results/exp2/plots/   - Performance plots ✓ FIXED
+  results/exp2/gifs/    - Evaluation videos

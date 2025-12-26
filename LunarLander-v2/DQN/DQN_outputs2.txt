@@ -1,0 +1,51 @@
+✓ Experiment 2 training complete
+
+### EXPERIMENT 2: EVALUATION ###
+
+======================================================================
+EXPERIMENT 2: Zero-shot evaluation
+======================================================================
+
+Model seed=0
+  Testing at p=0.00... ✓ GIF saved (2× speed) (return=151.5)
+  Testing at p=0.05... ✓ GIF saved (2× speed) (return=130.1)
+  Testing at p=0.10... ✓ GIF saved (2× speed) (return=127.7)
+  Testing at p=0.15... ✓ GIF saved (2× speed) (return=125.6)
+  Testing at p=0.20... ✓ GIF saved (2× speed) (return=151.5)
+  Testing at p=0.25... ✓ GIF saved (2× speed) (return=138.0)
+
+Model seed=42
+  Testing at p=0.00... ✓ GIF saved (2× speed) (return=205.7)
+  Testing at p=0.05... ✓ GIF saved (2× speed) (return=201.4)
+  Testing at p=0.10... ✓ GIF saved (2× speed) (return=197.3)
+  Testing at p=0.15... ✓ GIF saved (2× speed) (return=189.3)
+  Testing at p=0.20... ✓ GIF saved (2× speed) (return=193.4)
+  Testing at p=0.25... ✓ GIF saved (2× speed) (return=179.2)
+
+Model seed=1729
+  Testing at p=0.00... ✓ GIF saved (2× speed) (return=143.3)
+  Testing at p=0.05... ✓ GIF saved (2× speed) (return=133.5)
+  Testing at p=0.10... ✓ GIF saved (2× speed) (return=123.7)
+  Testing at p=0.15... ✓ GIF saved (2× speed) (return=113.9)
+  Testing at p=0.20... ✓ GIF saved (2× speed) (return=117.9)
+  Testing at p=0.25... ✓ GIF saved (2× speed) (return=122.8)
+
+Model seed=6174
+  Testing at p=0.00... ✓ GIF saved (2× speed) (return=215.3)
+  Testing at p=0.05... ✓ GIF saved (2× speed) (return=211.3)
+  Testing at p=0.10... ✓ GIF saved (2× speed) (return=206.8)
+  Testing at p=0.15... ✓ GIF saved (2× speed) (return=189.6)
+  Testing at p=0.20... ✓ GIF saved (2× speed) (return=180.1)
+  Testing at p=0.25... ✓ GIF saved (2× speed) (return=194.0)
+
+Model seed=196
+  Testing at p=0.00... ✓ GIF saved (2× speed) (return=141.0)
+  Testing at p=0.05... ✓ GIF saved (2× speed) (return=144.1)
+  Testing at p=0.10... ✓ GIF saved (2× speed) (return=151.8)
+  Testing at p=0.15... ✓ GIF saved (2× speed) (return=153.4)
+  Testing at p=0.20... ✓ GIF saved (2× speed) (return=136.6)
+  Testing at p=0.25... ✓ GIF saved (2× speed) (return=126.7)
+
+✓ Saved: results\exp2\exp2_results.csv
+
+Generating Experiment 2 plots...
